@@ -1,4 +1,4 @@
-# 向导
+# Guide
 
 ## Getting Super Powers
 
